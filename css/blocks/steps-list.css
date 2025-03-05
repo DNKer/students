@@ -31,3 +31,8 @@
     line-height: 22px;
     text-align: center;
 }
+
+.steps-list__link {
+    text-decoration: underline;
+    color: #425CD3;
+}

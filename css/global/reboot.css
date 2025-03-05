@@ -25,6 +25,14 @@ img {
   object-fit: cover;
 }
 
+h2 {
+  margin: 16px 0;
+}
+
+p {
+  margin: 0;
+}
+
 li {
   display: flex;
   flex-direction: column;
