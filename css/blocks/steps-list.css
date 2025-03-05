@@ -1,0 +1,33 @@
+.steps-list {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.steps-list__item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.steps-list__count {
+    display: flex;
+    padding: 9px 21px;
+    font-weight: 700;
+    border-radius: 12px;
+    font-size: 40px;
+    line-height: 46px;
+    color: #FFFFFF;
+    background-color: #476BF0;
+    justify-content: center;
+    align-items: center;
+}
+
+.steps-list__text {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+}
