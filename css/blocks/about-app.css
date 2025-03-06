@@ -1,0 +1,11 @@
+.about-app {
+    display: flex;
+}
+
+.about-app__title {
+    display: inline;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #1E222E;
+}
