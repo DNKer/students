@@ -1,11 +1,67 @@
 .about-app {
     display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+    align-items: center;
+}
+
+.about-app__img {
+    width: 520px;
+    height: 450px;
 }
 
 .about-app__title {
-    display: inline;
     font-weight: 700;
     font-size: 32px;
     line-height: 38px;
     color: #1E222E;
+}
+
+.about-app__text {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 32px;
+}
+
+.about-app__links a {
+    text-decoration: none;
+    width: 170px;
+    height: 48px;
+    border-radius: 8px;
+    display: flex;
+}
+
+.about-app__links {
+    display: block;
+    width: 170px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+
+.about-app__link {
+    background-color: #1E222E;
+    color: #FFFF;
+    text-align: center;
+    padding: 14px 57px;
+}
+
+.about-app__links {
+    display: flex;
+    flex-direction: row;
+    column-gap: 12px;
+}
+
+.about-app__link {
+    background-color: #EDEEEF;
+    color:#1E222E;
+    text-align: center;
+    padding: 14px 57px;
+}
+
+.about-app__link--secondary {
+    background-color: #1E222E;
+    color: #FFFF;
 }
