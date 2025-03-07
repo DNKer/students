@@ -30,23 +30,7 @@
     height: 48px;
     border-radius: 8px;
     display: flex;
-}
-
-.about-app__links {
-    display: block;
-    width: 170px;
-    border-radius: 8px;
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 20px;
-}
-
-.about-app__link {
-    background-color: #1e222e;
-    color: #ffff;
-    align-items: center;
-    justify-content: center;
-    padding: 14px 57px;
+    padding: 8px 10px;
 }
 
 .about-app__links {
@@ -56,10 +40,18 @@
 }
 
 .about-app__link {
+    background-color: #1e222e;
+    color: #ffff;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.about-app__link {
     background-color: #edeeef;
     color: #1e222e;
     text-align: center;
-    padding: 14px 57px;
+    padding: 8px 10px;
 }
 
 .about-app__link--secondary {
