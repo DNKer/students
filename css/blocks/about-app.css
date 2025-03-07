@@ -14,7 +14,7 @@
     font-weight: 700;
     font-size: 32px;
     line-height: 38px;
-    color: #1E222E;
+    color: #1e222e;
 }
 
 .about-app__text {
@@ -39,12 +39,13 @@
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
-  }
+}
 
 .about-app__link {
-    background-color: #1E222E;
-    color: #FFFF;
-    text-align: center;
+    background-color: #1e222e;
+    color: #ffff;
+    align-items: center;
+    justify-content: center;
     padding: 14px 57px;
 }
 
@@ -55,13 +56,13 @@
 }
 
 .about-app__link {
-    background-color: #EDEEEF;
-    color:#1E222E;
+    background-color: #edeeef;
+    color: #1e222e;
     text-align: center;
     padding: 14px 57px;
 }
 
 .about-app__link--secondary {
-    background-color: #1E222E;
-    color: #FFFF;
+    background-color: #1e222e;
+    color: #ffff;
 }

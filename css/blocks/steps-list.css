@@ -11,7 +11,7 @@
     text-align: center;
     align-items: center;
     justify-content: left;
-    width:calc( ( 100% - 20px ) / 3 );
+    width: calc((100% - 20px) / 3);
 }
 
 .steps-list__count {
@@ -21,8 +21,8 @@
     border-radius: 12px;
     font-size: 40px;
     line-height: 46px;
-    color: #FFFFFF;
-    background-color: #476BF0;
+    color: #ffffff;
+    background-color: #476bf0;
     justify-content: center;
     align-items: center;
 }
@@ -36,5 +36,5 @@
 
 .steps-list__link {
     text-decoration: underline;
-    color: #425CD3;
+    color: #425cd3;
 }

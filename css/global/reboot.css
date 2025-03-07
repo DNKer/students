@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   font-family: "Noto Sans", "Arial", sans-serif;
@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   min-width: 1280px;
   padding: 0;
-  color: #1E222E;
+  color: #1e222e;
 }
 
 main {
